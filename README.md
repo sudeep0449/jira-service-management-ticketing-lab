@@ -79,6 +79,7 @@ Incident management, service request management, ticket prioritisation and assig
 - Priority isn't just about the technical severity of the issue — it reflects business impact, which is why a department-wide printer outage was rated higher than a single user's password reset.
 - Documenting resolution notes and replying to the customer before closing a ticket matters as much as fixing the underlying issue — it's what makes the resolution auditable later.
 
-## Full Documentation
+## Repository Contents
 
-[`Jira-Ticketing-System-Lab-Documentation.pdf`](./Jira-Ticketing-System-Lab-Documentation.pdf) contains the full write-up with all screenshots embedded inline.
+- [`Jira-Ticketing-System-Lab-Documentation.pdf`](./Jira-Ticketing-System-Lab-Documentation.pdf) — full write-up with all screenshots embedded inline
+- [`ss/`](<./ss>) — the individual screenshots referenced in the ticket tables above
